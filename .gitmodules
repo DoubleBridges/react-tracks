@@ -1,0 +1,3 @@
+[submodule "app/react-tracks-client"]
+	path = app/react-tracks-client
+	url = git@github.com:reedbarger/react-tracks-client.git
